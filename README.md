@@ -29,3 +29,15 @@ The dataset includes details about Uber rides, such as:
 
 **Excel/CSV**: Serves as the raw data source.
 
+# Data Preparation
+
+Performed in Power BI using Power Query: 
+
+  Cleaned missing and inconsistent values
+  
+  Extracted date and Time components
+  
+  Created Calculated columns fot Trip Duration,Distance and Revenue
+  
+  Built Relationships between data Tables
+
