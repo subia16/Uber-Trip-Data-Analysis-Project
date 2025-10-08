@@ -38,6 +38,12 @@ Performed in Power BI using Power Query:
   Extracted date and Time components
   
   Created Calculated columns fot Trip Duration,Distance and Revenue
-  
+
   Built Relationships between data Tables
+
+# Conclusion
+The Uber Data Analysis dashboard provides valuable insights for operations and business
+strategy by highlighting trends in trip frequency , driver performance and customer demand .
+Power BI's interactive visuals make it easy to explore and communicate key findings effectively.
+  
 
